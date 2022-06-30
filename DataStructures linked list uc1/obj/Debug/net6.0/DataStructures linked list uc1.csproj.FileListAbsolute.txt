@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\DataStructures linked list uc1\DataStructures linked list uc1\obj\Debug\net6.0\DataStructures linked list uc1.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\DataStructures linked list uc1\DataStructures linked list uc1\obj\Debug\net6.0\DataStructures linked list uc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\DataStructures linked list uc1\DataStructures linked list uc1\obj\Debug\net6.0\DataStructures linked list uc1.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\DataStructures linked list uc1\DataStructures linked list uc1\obj\Debug\net6.0\DataStructures linked list uc1.AssemblyInfo.cs
+C:\Users\mani1\source\repos\DataStructures linked list uc1\DataStructures linked list uc1\obj\Debug\net6.0\DataStructures linked list uc1.csproj.CoreCompileInputs.cache
