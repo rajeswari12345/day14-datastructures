@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures linked list uc1", "DataStructures linked list uc1\DataStructures linked list uc1.csproj", "{5E3D1217-D124-4048-A408-9EF5998AD9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3D1217-D124-4048-A408-9EF5998AD9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3D1217-D124-4048-A408-9EF5998AD9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3D1217-D124-4048-A408-9EF5998AD9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3D1217-D124-4048-A408-9EF5998AD9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F990CB-079D-4C76-A5DC-8AAA788ABB10}
+	EndGlobalSection
+EndGlobal
